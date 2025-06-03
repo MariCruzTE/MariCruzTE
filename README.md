@@ -1,6 +1,14 @@
-## Hi there 👋
+# ¡Hola, soy Mari Cruz! 👋
+Soy una profesional con 15 años de experiencia en retail como Area Manager, ahora en transición a Data Analytics e IA. 
+Estoy cursando bootcamps en Data Analytics (especialización en Business Fundamentals) e IA, y trabajando en mi certificación PL-300 (Power BI). 
+Mis proyectos combinan análisis de datos, estrategia de negocio y un toque de IA, aplicados a problemas reales de retail.
 
-<!--
+- 🔧 Habilidades: Python, SQL, R, Power BI, Excel, IA básica.
+- 📫 Contacto: [www.linkedin.com/in/mari-cruz-trasande-exposito]
+
+- 🌐 Portafolio: [Enlace a tu portafolio cuando lo tengas]
+
+<!--www.linkedin.com/in/mari-cruz-trasande-exposito
 **MariCruzTE/MariCruzTE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
