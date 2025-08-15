@@ -6,7 +6,7 @@ Mis proyectos combinan análisis de datos, estrategia de negocio y un toque de I
 - 🔧 Habilidades: Python, SQL, R, Power BI, Excel, IA básica.
 - 📫 Contacto: [www.linkedin.com/in/mari-cruz-trasande-exposito]
 
-- 🌐 Portafolio: [Enlace a tu portafolio cuando lo tengas]
+- 🌐 Portafolio: [En construcción]
 
 <!--www.linkedin.com/in/mari-cruz-trasande-exposito
 **MariCruzTE/MariCruzTE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
